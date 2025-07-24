@@ -4,9 +4,10 @@ public class Person {
 
      public static int count = 0;
 
-     public  static final int  scientificName = "Home Sapiens";
+    public static final String scientificName = "Homo Sapiens";
 
-     public Person(){
+
+    public Person(){
          count++;
      }
 

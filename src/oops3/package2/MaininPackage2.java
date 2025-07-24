@@ -11,6 +11,7 @@ public class MaininPackage2 extends Teacher {
 //        obj.degree = "PHD";
 
          MaininPackage2 maininPackage2 = new MaininPackage2();
-         maininPackage2.studentsCount = 100;
+        maininPackage2.studentsCount = 100;  // ✅ will now work
+
     }
 }

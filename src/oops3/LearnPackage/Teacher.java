@@ -1,14 +1,15 @@
 package oops3.LearnPackage;
 
 public class Teacher {
+    public int studentsCount;
 
-     public int teachingClass;
+    public int teachingClass;
 
      private int  id;
 
      String degree;  // this is default or package-private
 
-    protected int studentsCount
+//    protected int studentsCount
 
 
     public static void main(String[] args) {

@@ -40,7 +40,7 @@ public class MainInEncapsulation {
         System.out.println(Person.count);
         System.out.println(Math.PI);
 
-        System.out.println(Person.scientificName);
+//        System.out.println(Person.scientificName);
 //
 //        System.out.println(Math.max(3,6));
 
